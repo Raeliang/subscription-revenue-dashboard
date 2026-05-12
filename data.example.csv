@@ -1,0 +1,11 @@
+Date,Country,Platform,Subscription_Type,Revenue_EUR,Orders
+2026-04,US,Apple,Monthly,248.30,262
+2026-04,US,Apple,Yearly,271.50,51
+2026-04,AU,Apple,Monthly,135.00,41
+2026-04,AU,Apple,Yearly,135.98,8
+2026-04,DE,Apple,Monthly,84.88,27
+2026-04,DE,Apple,Yearly,189.94,9
+2026-04,JP,Apple,Monthly,913.11,62
+2026-04,JP,Apple,Yearly,489.30,12
+2026-03,ALL,Google,Unknown,37416.01,
+2026-04,ALL,Google,Unknown,39157.33,
