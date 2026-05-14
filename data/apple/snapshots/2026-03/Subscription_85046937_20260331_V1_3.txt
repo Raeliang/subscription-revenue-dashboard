@@ -1,0 +1,490 @@
+App Name	App Apple ID	Subscription Name	Subscription Apple ID	Subscription Group ID	Standard Subscription Duration	Subscription Offer Name	Promotional Offer ID	Customer Price	Customer Currency	Developer Proceeds	Proceeds Currency	Preserved Pricing	Proceeds Reason	Client	Device	State	Country	Active Standard Price Subscriptions	Active Free Trial Introductory Offer Subscriptions	Active Pay Up Front Introductory Offer Subscriptions	Active Pay As You Go Introductory Offer Subscriptions	Free Trial Promotional Offer Subscriptions	Pay Up Front Promotional Offer Subscriptions	Pay As You Go Promotional Offer Subscriptions	Free Trial Offer Code Subscriptions	Pay Up Front Offer Code Subscriptions	Pay As You Go Offer Code Subscriptions	Marketing Opt-Ins	Billing Retry	Grace Period	Subscribers	Free Trial Win-back Offers	Pay Up Front Win-back Offers	Pay As You Go Win-back Offers
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.51	EUR		Rate After One Year		iPhone	 	LT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.45	EUR		Rate After One Year		iPhone	 	SK	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	119000.00	VND	86897.00	VND				iPhone	 	VN	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	399.00	NOK	271.32	NOK				iPhone	 	NO	8	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	MPM	MZ	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	115.00	MXN	84.27	MXN		Rate After One Year		iPhone	CMX	MX	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	TX	US	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	 	EC	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.42	EUR				iPhone	 	SK	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.49	EUR	21.06	EUR		Rate After One Year		iPhone	 	DE	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	MYR	0.00	MYR				iPhone	Selangor	MY	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	M	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	MN	IT	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	L	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	7.49	NZD	5.54	NZD		Rate After One Year		iPhone	 	NZ	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	USD	4.17	USD				iPhone	MO	UY	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	BRL	0.00	BRL				iPhone	SC	BR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	BE	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.53	EUR				iPhone	 	RS	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	ML	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	249.00	DKK	169.32	DKK		Rate After One Year		iPhone	 	DK	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	ZAR	0.00	ZAR				iPhone	 	ZA	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	 	SI	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	2390.00	RUB	1665.16	RUB		Rate After One Year		iPhone	 	RU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	GBP	0.00	GBP				iPhone	 	GB	0	3	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	91.90	ILS	78.12	ILS		Rate After One Year		iPhone	 	IL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	 	AR	9	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	BRL	0.00	BRL				iPhone	CE	BR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	39.00	DKK	26.52	DKK				iPhone	 	DK	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	21.07	EUR				iPhone	 	BE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.53	EUR				iPhone	 	AT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	49.99	AUD	38.63	AUD				iPhone	VIC	AU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	OH	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.38	EUR		Rate After One Year		iPhone	 	FI	243	0	0	0	0	0	0	0	0	0	0	0	0	243	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.50	CHF	3.54	CHF				iPhone	 	CH	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	6.99	AUD	5.40	AUD				iPhone	QLD	AU	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	20.90	MYR	16.45	MYR				iPhone	Selangor	MY	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	129.00	CZK	90.62	CZK		Rate After One Year		iPhone	 	CZ	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	115.00	MXN	84.27	MXN		Rate After One Year		iPhone	DUR	MX	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	20.90	MYR	16.45	MYR		Rate After One Year		iPhone	Malacca	MY	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.51	EUR				iPhone	 	NL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.42	EUR		Rate After One Year		iPhone	 	GR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	MD	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	20.81	EUR		Rate After One Year		iPhone	TV	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	30.99	EUR	21.24	EUR		Rate After One Year		iPhone	 	GR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.51	EUR				iPhone	 	LV	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	84.99	ZAR	62.82	ZAR		Rate After One Year		iPhone	 	ZA	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.46	EUR		Rate After One Year		iPhone	TO	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	SI	IT	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	2390.00	RUB	1665.16	RUB				iPhone	 	RU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.79	EUR	3.39	EUR		Rate After One Year		iPhone	 	BG	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	159.90	BRL	118.76	BRL		Rate After One Year		iPhone	MS	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	OUJ	MA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	PLN	0.00	PLN				iPhone	 	PL	0	4	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR		Rate After One Year		iPhone	Rovigo	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	WI	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.04	EUR	3.43	EUR		Rate After One Year		iPhone	21	HR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	OH	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	SGD	0.00	SGD				iPhone	 	SG	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.53	EUR		Rate After One Year		iPhone	 	RS	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	FI	0	123	0	0	0	0	0	0	0	0	0	0	0	123	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	FI	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	12990.00	HUF	8694.00	HUF				iPhone	 	HU	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	PA	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	USD	3.86	USD				iPhone	NP	BS	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	GC	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	MA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	77.99	TRY	52.48	TRY		Rate After One Year		iPhone	 	TR	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	WA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	169.00	THB	134.25	THB				iPhone	Phuket	TH	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR		Rate After One Year		iPhone	AL	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	THB	0.00	THB				iPhone	Udon Thani	TH	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	115.00	MXN	84.27	MXN		Rate After One Year		iPhone	MEX	MX	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL				iPhone	RS	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	249.00	DKK	169.32	DKK				iPhone	 	DK	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	MXN	0.00	MXN				iPhone	VER	MX	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.24	EUR		Rate After One Year		iPhone	 	EE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	PLN	0.00	PLN				iPhone	 	PL	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	129.00	CZK	90.62	CZK				iPhone	 	CZ	12	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	169.00	THB	134.25	THB				iPhone	Chonburi	TH	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	NU	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	ILS	0.00	ILS				iPhone	 	IL	0	4	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	149.00	THB	118.36	THB				iPhone	Nonthaburi	TH	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	V	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	GA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	NH	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	TN	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	VA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.56	EUR				iPhone	 	DE	9	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	CHF	0.00	CHF				iPhone	 	CH	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	IA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.77	EUR				iPad	 	NL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	PN	IT	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	VA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	DKK	0.00	DKK				iPhone	 	DK	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL				iPhone	PI	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	49.00	NOK	33.32	NOK				iPhone	 	NO	20	0	0	0	0	0	0	0	0	0	0	0	0	20	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	UT	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	6.99	AUD	5.40	AUD		Rate After One Year		iPhone	NT	AU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	19.99	SAR	14.78	SAR				iPhone	 	SA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	M	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	TX	US	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	IL	US	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	399.00	NOK	271.32	NOK		Rate After One Year		iPhone	 	NO	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.53	EUR		Rate After One Year		iPhone	 	AT	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	MI	IT	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	6.99	AUD	5.40	AUD		Rate After One Year		iPhone	NSW	AU	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	CA	US	7	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	SEK	0.00	SEK				iPhone	 	SE	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL		Rate After One Year		iPhone	RJ	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	USD	0.00	USD				iPhone	CT	US	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	11490.00	HUF	7690.00	HUF				iPhone	 	HU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.04	EUR	3.43	EUR		Rate After One Year		iPhone	20	HR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	6000.00	KRW	4636.00	KRW		Rate After One Year		iPhone	서울	KR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.51	EUR				iPhone	 	NL	9	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	USD	0.00	USD				iPhone	2	IS	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	20.99	EUR		Rate After One Year		iPhone	 	FI	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	BRL	0.00	BRL				iPhone	BA	BR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	USD	0.00	USD				iPhone	MO	UY	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	20.72	EUR		Rate After One Year		iPhone	 	IE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	USD	3.79	USD		Rate After One Year		iPhone	 	KG	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	OK	US	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	 	AR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	41.99	AUD	32.45	AUD				iPhone	WA	AU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	HKD	0.00	HKD				iPhone	 	HK	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	20.81	EUR		Rate After One Year		iPhone	RM	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	HI	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.48	EUR		Rate After One Year		iPhone	 	SI	7	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.45	EUR				iPhone	 	IE	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	669.00	MXN	490.22	MXN				iPhone	SON	MX	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	23.99	PLN	16.58	PLN		Rate After One Year		iPhone	 	PL	16	0	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	550.00	JPY	425.00	JPY		Rate After One Year		iPhone	埼玉県	JP	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	TRY	0.00	TRY				iPhone	 	TR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.49	EUR	21.06	EUR		Rate After One Year		iPad	 	DE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	NV	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.45	EUR				iPhone	 	PT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	NZD	0.00	NZD				iPhone	 	NZ	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.49	EUR	20.38	EUR		Rate After One Year		iPhone	 	SK	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	6.99	AUD	5.40	AUD				iPhone	SA	AU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	VA	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPad	 	FI	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.51	EUR		Rate After One Year		iPhone	 	NL	13	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	VI	ES	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.45	EUR				iPhone	 	SK	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	MA	ES	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	LT	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	799.00	CZK	561.28	CZK		Rate After One Year		iPhone	 	CZ	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	MS	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	CA	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	IN	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	FL	US	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.49	USD	24.22	USD		Rate After One Year		iPhone	NY	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	169.00	THB	134.25	THB				iPhone	Maha Sarakham	TH	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	BRL	0.00	BRL				iPhone	PE	BR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	M	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4990.00	CLP	3564.00	CLP				iPhone	 	CL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	RUB	0.00	RUB				iPhone	 	RU	0	4	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	NL	0	6	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	29.90	BRL	22.21	BRL				iPhone	PR	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	USD	0.00	USD				iPhone	 	PY	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.49	USD	3.89	USD				iPhone	 	BY	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	TO	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.45	EUR		Rate After One Year		iPhone	 	IE	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	TX	US	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	AZ	US	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	NY	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.49	EUR	20.89	EUR				iPad	 	AT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	399.00	RUB	277.99	RUB				iPhone	 	RU	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	34.99	EUR	24.78	EUR				iPhone	 	BG	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.49	USD	3.89	USD		Rate After One Year		iPhone	 	UA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	PR	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	NC	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	CS	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.50	CHF	22.41	CHF		Rate After One Year		iPhone	 	CH	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL				iPhone	GO	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	20.99	EUR				iPad	 	FI	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	23.99	RON	16.85	RON				iPhone	 	RO	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	30.99	EUR	20.99	EUR		Rate After One Year		iPhone	 	FI	35	0	0	0	0	0	0	0	0	0	0	0	0	35	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	OK	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	199.99	TRY	134.58	TRY				iPhone	 	TR	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	 	DE	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	S	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	 	AR	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EGP	0.00	EGP				iPhone	QAH	EG	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	B	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	FL	US	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	MO	IT	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL				iPhone	RJ	BR	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.57	USD	3.82	USD		Rate After One Year		iPhone	1	IS	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL		Rate After One Year		iPhone	PB	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	TN	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	 	CR	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	799.00	CZK	561.28	CZK				iPhone	 	CZ	9	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	39.00	DKK	26.52	DKK		Rate After One Year		iPad	 	DK	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	AUD	0.00	AUD				iPhone	NSW	AU	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	13.90	ILS	11.82	ILS				iPhone	 	IL	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	5000.00	JPY	3864.00	JPY				iPhone	東京都	JP	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	14.90	ILS	12.67	ILS				iPad	 	IL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	SEK	0.00	SEK				iPhone	 	SE	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.49	USD	24.22	USD				iPhone	IL	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	50.00	SEK	34.00	SEK				iPhone	 	SE	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.51	EUR		Rate After One Year		iPhone	 	LV	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL				iPhone	RO	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	MADRID	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	DKK	0.00	DKK				iPhone	 	DK	0	3	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.57	USD	3.82	USD				iPhone	1	IS	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	TF	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	USD	3.86	USD				iPhone	 	BH	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.53	EUR				iPhone	 	BG	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	MADRID	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	SI	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	229.00	DKK	155.72	DKK		Rate After One Year		iPhone	 	DK	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.53	EUR				iPhone	 	FR	13	0	0	0	0	0	0	0	0	0	0	0	0	13	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	24.99	PLN	17.27	PLN				iPhone	 	PL	10	0	0	0	0	0	0	0	0	0	0	0	0	10	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.42	EUR				iPhone	 	GR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	129.00	CZK	90.62	CZK		Rate After One Year		iPhone	 	CZ	29	0	0	0	0	0	0	0	0	0	0	0	0	29	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.50	CHF	3.54	CHF				iPhone	 	CH	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	6.99	AUD	5.40	AUD		Rate After One Year		iPhone	ACT	AU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	7.49	NZD	5.54	NZD				iPhone	 	NZ	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	30.00	CNY	25.27	CNY				iPhone	四川	CN	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	NY	US	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	29.90	BRL	22.21	BRL				iPhone	PE	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	21.07	EUR				iPhone	 	NL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	CO	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	 	AR	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	TV	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	769.00	CZK	540.21	CZK		Rate After One Year		iPhone	 	CZ	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.99	CAD	5.09	CAD		Rate After One Year		iPhone	ON	CA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	AZ	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	22.14	EUR				iPhone	 	DE	8	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.72	EUR				iPhone	T	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD		Rate After One Year		iPhone	IL	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL				iPhone	MA	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	LE	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	LI	SV	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.42	EUR		Rate After One Year		iPhone	 	EE	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	140.00	TWD	110.00	TWD				iPhone	 	TW	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	3.99	GBP	2.82	GBP		Rate After One Year		iPhone	 	GB	25	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR		Rate After One Year		iPhone	FC	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	21.02	EUR				iPhone	Madrid	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	CA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4500.00	CLP	3214.00	CLP		Rate After One Year		iPhone	 	CL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	LA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	CA	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.51	EUR				iPhone	 	LT	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL		Rate After One Year		iPhone	DF	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	84.99	ZAR	62.82	ZAR				iPhone	 	ZA	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.49	EUR	21.06	EUR				iPhone	 	DE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	17.99	AED	14.56	AED				iPhone	DU	AE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	TO	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	5.49	USD	3.89	USD				iPhone	 	UA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	CNY	0.00	CNY				iPhone	广东	CN	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	GBP	21.18	GBP				iPhone	 	GB	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.49	USD	24.22	USD		Rate After One Year		iPhone	CA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	PA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	TX	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR		Rate After One Year		iPhone	VI	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.49	USD	24.22	USD		Rate After One Year		iPhone	NK	CD	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	21900.00	COP	15642.86	COP				iPhone	VAC	CO	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	A	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.38	EUR				iPhone	 	FI	183	0	0	0	0	0	0	0	0	0	0	0	0	183	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL				iPhone	BA	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	MI	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL		Rate After One Year		iPhone	PE	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	139.99	PLN	96.74	PLN		Rate After One Year		iPhone	 	PL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	AN	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.42	EUR				iPhone	 	IE	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	59.00	NOK	40.12	NOK				iPhone	 	NO	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	6.99	AUD	5.40	AUD		Rate After One Year		iPhone	QLD	AU	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.99	CAD	5.09	CAD				iPhone	AB	CA	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	199.90	BRL	148.46	BRL				iPhone	SP	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	419.00	INR	301.82	INR		Rate After One Year		iPhone	MH	IN	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	MXN	0.00	MXN				iPhone	PUE	MX	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.04	EUR	3.43	EUR		Rate After One Year		iPhone	 	HR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	77.99	TRY	52.48	TRY				iPhone	 	TR	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	399.00	RUB	277.99	RUB				iPhone	 	RU	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	BI	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.56	EUR				iPad	 	DE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	129.00	CZK	90.62	CZK				iPhone	 	CZ	14	0	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	ER	NA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	PA	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.38	EUR				iPhone	 	FI	119	0	0	0	0	0	0	0	0	0	0	0	0	119	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	MI	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	40.98	SGD	31.96	SGD				iPhone	 	SG	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR		Rate After One Year		iPhone	TN	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	IDR	0.00	IDR				iPhone	 	ID	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	IA	US	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.49	USD	24.22	USD				iPhone	WA	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.57	USD	3.82	USD		Rate After One Year		iPhone	2	IS	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.04	EUR	3.43	EUR				iPhone	08	HR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	39.00	DKK	26.52	DKK		Rate After One Year		iPhone	 	DK	47	0	0	0	0	0	0	0	0	0	0	0	0	47	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	21.24	EUR		Rate After One Year		iPhone	 	FR	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.99	CAD	5.09	CAD		Rate After One Year		iPhone	BC	CA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	AT	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL		Rate After One Year		iPhone	SP	BR	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	NH	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	A	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	 	CR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	0.00	NZD	0.00	NZD				iPhone	 	NZ	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	1990.00	HUF	1332.00	HUF				iPhone	 	HU	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	Siracusa	IT	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.50	CHF	3.54	CHF		Rate After One Year		iPhone	 	CH	8	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	2190.00	KZT	1604.74	KZT		Rate After One Year		iPhone	QAR	KZ	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	6.99	AUD	5.40	AUD				iPhone	NSW	AU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	USD	0.00	USD				iPhone	AZ	US	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	TO	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4500.00	CLP	3214.00	CLP				iPhone	 	CL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	6.99	AUD	5.40	AUD				iPhone	QLD	AU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.49	USD	3.89	USD				iPhone	 	UA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.77	EUR				Desktop	 	NL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	MD	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.57	USD	3.82	USD				iPhone	2	IS	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	6.98	SGD	5.44	SGD		Rate After One Year		iPhone	 	SG	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.50	EUR				iPhone	ME	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR		Rate After One Year		iPhone	BS	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	305.00	SEK	207.40	SEK				iPhone	 	SE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.48	EUR				iPhone	 	SI	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.53	EUR		Rate After One Year		iPhone	 	FR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	24.99	GBP	17.65	GBP		Rate After One Year		iPhone	 	GB	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	35.49	USD	24.33	USD		Rate After One Year		iPhone	1	IS	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	THB	0.00	THB				iPhone	Nakhon Si Thammarat	TH	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	19.99	SAR	14.78	SAR				iPhone	 	SA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	FL	US	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	NH	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	CB	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.72	EUR				iPhone	B	ES	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.04	EUR	3.43	EUR				iPhone	13	HR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	20.72	EUR		Rate After One Year		iPhone	 	PT	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.49	USD	24.22	USD		Rate After One Year		iPhone	FL	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	39.99	CAD	33.99	CAD				iPhone	QC	CA	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.49	EUR	20.89	EUR		Rate After One Year		iPhone	 	AT	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	199.90	BRL	148.46	BRL				iPhone	PR	BR	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	 	AR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.24	EUR				iPhone	 	GR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	3.99	GBP	2.82	GBP				iPhone	 	GB	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	Z	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	HUF	0.00	HUF				iPhone	 	HU	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.56	EUR		Rate After One Year		iPhone	 	DE	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	MI	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	305.00	SEK	207.40	SEK		Rate After One Year		iPhone	 	SE	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	99.90	ILS	84.92	ILS				iPhone	 	IL	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.63	EUR		Rate After One Year		iPhone	 	LU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.53	EUR				iPhone	 	AT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	 	AT	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	BA	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.50	EUR				iPhone	PC	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.49	USD	24.22	USD				iPhone	TX	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	20.99	EUR				iPhone	 	FI	70	0	0	0	0	0	0	0	0	0	0	0	0	70	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.38	EUR		Rate After One Year		iPad	 	FI	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	USD	4.17	USD		Rate After One Year		iPhone	RO	UY	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	SS	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	MI	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	WA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	TWD	0.00	TWD				iPhone	 	TW	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	21.02	EUR		Rate After One Year		iPhone	GR	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	FR	0	4	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	RUB	0.00	RUB				iPhone	 	RU	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	GA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	49.00	NOK	33.32	NOK		Rate After One Year		iPad	 	NO	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.38	EUR		Rate After One Year		iPhone	 	FI	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	NJ	US	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	FL	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	CA	US	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.48	EUR				iPhone	 	SI	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	CA	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.49	EUR	20.21	EUR		Rate After One Year		iPhone	 	EE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	CZK	0.00	CZK				iPhone	 	CZ	0	3	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	39.00	DKK	26.52	DKK				iPhone	 	DK	23	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	USD	0.00	USD				iPhone	DC	US	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	2190.00	KZT	1604.74	KZT		Rate After One Year		iPhone	AAO	KZ	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	GA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.53	EUR				iPhone	 	FR	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	NC	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	PT	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.95	EUR				iPhone	 	FR	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	21.07	EUR		Rate After One Year		iPhone	 	NL	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	AUD	0.00	AUD				iPhone	WA	AU	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.99	CAD	5.09	CAD		Rate After One Year		iPhone	QC	CA	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	AUD	0.00	AUD				iPhone	VIC	AU	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	14.90	ILS	12.67	ILS				iPhone	 	IL	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	3.99	EUR	3.39	EUR				iPhone	19	ME	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	49.00	NOK	33.32	NOK		Rate After One Year		iPhone	 	NO	28	0	0	0	0	0	0	0	0	0	0	0	0	28	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	BRL	0.00	BRL				iPhone	RJ	BR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.51	EUR		Rate After One Year		iPhone	 	BE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	50.00	SEK	34.00	SEK		Rate After One Year		iPhone	 	SE	18	0	0	0	0	0	0	0	0	0	0	0	0	18	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	399.00	SEK	271.32	SEK				iPhone	 	SE	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	SG	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	 	NL	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	CZK	0.00	CZK				iPhone	 	CZ	0	12	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.38	EUR				iPad	 	FI	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	MN	US	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	23.99	PLN	16.58	PLN				iPhone	 	PL	9	0	0	0	0	0	0	0	0	0	0	0	0	9	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	EE	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	NM	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	17.99	AED	14.56	AED		Rate After One Year		iPhone	AZ	AE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	CO	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	CAD	0.00	CAD				iPhone	BC	CA	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.99	CAD	5.09	CAD		Rate After One Year		iPhone	AB	CA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	33.99	USD	24.08	USD		Rate After One Year		iPhone	 	MD	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.75	USD				iPhone	MO	UY	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	29.90	BRL	22.21	BRL				iPhone	RR	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	7.99	NZD	5.91	NZD				iPhone	 	NZ	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	KRW	0.00	KRW				iPhone	경상남도	KR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	CAD	0.00	CAD				iPhone	AB	CA	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	149.99	PLN	103.65	PLN				iPhone	 	PL	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.42	EUR				iPhone	 	EE	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	WA	US	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.04	EUR	3.43	EUR				iPhone	 	HR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	 	SK	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	CO	US	4	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.99	EUR	21.06	EUR		Rate After One Year		iPhone	 	LU	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	USD	0.00	USD				iPhone	NJ	US	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	NY	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	30.99	EUR	20.99	EUR				iPhone	 	FI	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	HI	US	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	CO	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR				iPhone	PR	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	THB	0.00	THB				iPhone	Nong Khai	TH	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.00	CHF	23.59	CHF				iPhone	 	CH	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	GBP	0.00	GBP				iPhone	 	GB	0	5	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	 	FR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	6.99	AUD	5.40	AUD		Rate After One Year		iPhone	VIC	AU	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.50	EUR				iPhone	AN	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	BRL	0.00	BRL				iPhone	SP	BR	0	4	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR		Rate After One Year		iPhone	OT	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.56	EUR		Rate After One Year		iPhone	 	DE	23	0	0	0	0	0	0	0	0	0	0	0	0	23	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	NOK	0.00	NOK				iPhone	 	NO	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	KRW	0.00	KRW				iPhone	경기도	KR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	SO	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	 	FI	0	91	0	0	0	0	0	0	0	0	0	0	0	91	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.56	EUR				iPhone	 	CY	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	29.99	USD	25.49	USD				iPhone	BKO	ML	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	1890.00	HUF	1265.00	HUF				iPhone	 	HU	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	 	CR	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	CNY	0.00	CNY				iPhone	江西	CN	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	DE	0	16	0	0	0	0	0	0	0	0	0	0	0	16	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	TX	US	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	GR	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	59.00	SEK	40.12	SEK				iPhone	 	SE	7	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	CA	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	PO	ES	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	CNY	0.00	CNY				iPhone	BJ	CN	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.50	EUR		Rate After One Year		iPhone	MU	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	24.99	GBP	17.65	GBP		Rate After One Year		iPad	 	GB	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	34990.00	CLP	24993.00	CLP				iPhone	 	CL	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	59.00	NOK	40.12	NOK		Rate After One Year		iPhone	 	NO	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.72	EUR				iPhone	GR	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	20.89	EUR				iPhone	 	SI	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	299.00	NOK	203.32	NOK		Rate After One Year		iPhone	 	NO	12	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.77	EUR				iPhone	 	NL	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	25.90	BRL	19.24	BRL				iPhone	SP	BR	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	NOK	0.00	NOK				iPhone	 	NO	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	99.99	ZAR	73.91	ZAR		Rate After One Year		iPhone	 	ZA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	USD	0.00	USD				iPhone	NJ	US	0	2	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	 	FI	0	14	0	0	0	0	0	0	0	0	0	0	0	14	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	13.90	ILS	11.82	ILS		Rate After One Year		iPhone	 	IL	7	0	0	0	0	0	0	0	0	0	0	0	0	7	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.45	EUR				iPhone	 	SK	11	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	NM	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	EUR	0.00	EUR				iPhone	 	EE	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	WA	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	29.90	BRL	22.21	BRL				iPhone	CE	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD		Rate After One Year		iPhone	OR	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	3.99	GBP	2.82	GBP				iPhone	 	GB	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.53	EUR		Rate After One Year		iPhone	 	FR	8	0	0	0	0	0	0	0	0	0	0	0	0	8	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.42	EUR				iPhone	 	EE	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	RON	0.00	RON				iPhone	 	RO	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.95	EUR				iPhone	 	AT	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.49	USD	3.82	USD				iPhone	WI	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	169.00	THB	134.25	THB				iPhone	Khon Kaen	TH	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	199.90	BRL	148.46	BRL				iPhone	PB	BR	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	0.00	EUR	0.00	EUR				iPhone	 	SK	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	149.00	THB	118.36	THB				iPhone	Phrae	TH	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	5.99	CAD	5.09	CAD				iPhone	QC	CA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	35.33	USD	24.22	USD		Rate After One Year		iPhone	1	IS	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.50	EUR				iPhone	A	ES	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.46	EUR		Rate After One Year		iPhone	MI	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	599.99	ZAR	443.47	ZAR				iPhone	 	ZA	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	5.99	CAD	5.09	CAD				iPhone	QC	CA	2	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	0.00	THB	0.00	THB				iPhone	Chaiyaphum	TH	0	1	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.56	EUR				iPhone	 	DE	12	0	0	0	0	0	0	0	0	0	0	0	0	12	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	1890.00	HUF	1265.00	HUF		Rate After One Year		iPhone	 	HU	6	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	4.99	EUR	3.45	EUR		Rate After One Year		iPhone	 	PT	3	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	115.00	MXN	84.27	MXN				iPhone	CHH	MX	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	28.49	USD	24.22	USD		Rate After One Year		iPhone	TX	US	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	39.00	DKK	26.52	DKK		Rate After One Year		iPhone	 	DK	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	30.99	EUR	21.59	EUR				iPhone	 	SI	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	399.00	RUB	277.99	RUB		Rate After One Year		iPhone	 	RU	5	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 	29.99	EUR	20.81	EUR		Rate After One Year		iPhone	PR	IT	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0
+Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	4.99	EUR	3.48	EUR		Rate After One Year		iPhone	 	SI	1	0	0	0	0	0	0	0	0	0	0	0	0		0	0	0

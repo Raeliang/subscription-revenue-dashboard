@@ -1,0 +1,3688 @@
+{
+  "sourceFile": "ST subscription price.xlsx",
+  "targetCurrency": "EUR",
+  "normalizationMethod": "Price-tier normalization using Finland EUR price/proceeds as the EUR reference for each duration.",
+  "eurReference": {
+    "monthlyPrice": 4.99,
+    "monthlyProceeds": 3.38,
+    "yearlyPrice": 30.99,
+    "yearlyProceeds": 20.99
+  },
+  "entries": [
+    {
+      "countryName": "Afghanistan",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Albania",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.39,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 5.39
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 34.19,
+        "year1Proceeds": 24.78,
+        "year2Proceeds": 24.78,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Algeria",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Angola",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Anguilla",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Antigua and Barbuda",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Argentina",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Armenia",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.89,
+        "year2Proceeds": 3.89,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 24.78,
+        "year2Proceeds": 24.78,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Australia",
+      "monthly": {
+        "currency": "AUD",
+        "price": 6.99,
+        "year1Proceeds": 5.4,
+        "year2Proceeds": 5.4,
+        "finlandBaseCurrency": "AUD",
+        "finlandBasePrice": 5.99,
+        "usBaseCurrency": "AUD",
+        "usBasePrice": 6.99
+      },
+      "yearly": {
+        "currency": "AUD",
+        "price": 41.99,
+        "year1Proceeds": 38.63,
+        "year2Proceeds": 38.63,
+        "secondPriceCurrency": "AUD",
+        "secondPrice": 49.99
+      }
+    },
+    {
+      "countryName": "Austria",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.53,
+        "year2Proceeds": 3.53,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.49,
+        "year1Proceeds": 21.95,
+        "year2Proceeds": 21.95,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Azerbaijan",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.23,
+        "year2Proceeds": 3.23,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.2,
+        "year2Proceeds": 25.2,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Bahamas",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.99,
+        "year1Proceeds": 3.86,
+        "year2Proceeds": 3.86,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 30.99,
+        "year1Proceeds": 23.17,
+        "year2Proceeds": 23.17,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Bahrain",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.99,
+        "year1Proceeds": 3.86,
+        "year2Proceeds": 3.86,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 30.99,
+        "year1Proceeds": 23.17,
+        "year2Proceeds": 23.17,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Barbados",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.97,
+        "year2Proceeds": 3.97,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 25.31,
+        "year2Proceeds": 25.31,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Belarus",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.89,
+        "year2Proceeds": 3.89,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 5.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 24.78,
+        "year2Proceeds": 24.78,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Belgium",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.51,
+        "year2Proceeds": 3.51,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.77,
+        "year2Proceeds": 21.77,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Belize",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Benin",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.23,
+        "year2Proceeds": 3.23,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.2,
+        "year2Proceeds": 25.2,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Bermuda",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Bhutan",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Bolivia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Bosnia and Herzegovina",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.63,
+        "year2Proceeds": 3.63,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 28.99,
+        "year1Proceeds": 22.51,
+        "year2Proceeds": 22.51,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Botswana",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Brazil",
+      "monthly": {
+        "currency": "BRL",
+        "price": 25.9,
+        "year1Proceeds": 19.81,
+        "year2Proceeds": 19.81,
+        "finlandBaseCurrency": "BRL",
+        "finlandBasePrice": 24.9,
+        "usBaseCurrency": "BRL",
+        "usBasePrice": 29.9
+      },
+      "yearly": {
+        "currency": "BRL",
+        "price": 159.9,
+        "year1Proceeds": 152.92,
+        "year2Proceeds": 152.92,
+        "secondPriceCurrency": "BRL",
+        "secondPrice": 199.9
+      }
+    },
+    {
+      "countryName": "British Virgin Islands",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Brunei",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Bulgaria",
+      "monthly": {
+        "currency": "BGN",
+        "price": 9.49,
+        "year1Proceeds": 6.72,
+        "year2Proceeds": 6.72,
+        "finlandBaseCurrency": "BGN",
+        "finlandBasePrice": 8.99,
+        "usBaseCurrency": "BGN",
+        "usBasePrice": 9.99
+      },
+      "yearly": {
+        "currency": "BGN",
+        "price": 57.99,
+        "year1Proceeds": 49.58,
+        "year2Proceeds": 49.58,
+        "secondPriceCurrency": "BGN",
+        "secondPrice": 69.99
+      }
+    },
+    {
+      "countryName": "Burkina Faso",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Cambodia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.99,
+        "year1Proceeds": 3.86,
+        "year2Proceeds": 3.86,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 30.99,
+        "year1Proceeds": 23.17,
+        "year2Proceeds": 23.17,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Cameroon",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.91,
+        "year2Proceeds": 3.91,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 24.94,
+        "year2Proceeds": 24.94,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Canada",
+      "monthly": {
+        "currency": "CAD",
+        "price": 5.99,
+        "year1Proceeds": 5.08,
+        "year2Proceeds": 5.08,
+        "finlandBaseCurrency": "CAD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "CAD",
+        "usBasePrice": 5.99
+      },
+      "yearly": {
+        "currency": "CAD",
+        "price": 35.99,
+        "year1Proceeds": 33.92,
+        "year2Proceeds": 33.92,
+        "secondPriceCurrency": "CAD",
+        "secondPrice": 39.99
+      }
+    },
+    {
+      "countryName": "Cape Verde",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Cayman Islands",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Chad",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Chile",
+      "monthly": {
+        "currency": "CLP",
+        "price": 4500.0,
+        "year1Proceeds": 3214.0,
+        "year2Proceeds": 3214.0,
+        "finlandBaseCurrency": "CLP",
+        "finlandBasePrice": 4990.0,
+        "usBaseCurrency": "CLP",
+        "usBasePrice": 4990.0
+      },
+      "yearly": {
+        "currency": "CLP",
+        "price": 27500.0,
+        "year1Proceeds": 24993.0,
+        "year2Proceeds": 24993.0,
+        "secondPriceCurrency": "CLP",
+        "secondPrice": 34990.0
+      }
+    },
+    {
+      "countryName": "China mainland",
+      "monthly": {
+        "currency": "CNY",
+        "price": 30.0,
+        "year1Proceeds": 25.27,
+        "year2Proceeds": 25.27,
+        "finlandBaseCurrency": "CNY",
+        "finlandBasePrice": 28.0,
+        "usBaseCurrency": "CNY",
+        "usBasePrice": 30.0
+      },
+      "yearly": {
+        "currency": "CNY",
+        "price": 188.0,
+        "year1Proceeds": 166.8,
+        "year2Proceeds": 166.8,
+        "secondPriceCurrency": "CNY",
+        "secondPrice": 198.0
+      }
+    },
+    {
+      "countryName": "Colombia",
+      "monthly": {
+        "currency": "COP",
+        "price": 21900.0,
+        "year1Proceeds": 15642.86,
+        "year2Proceeds": 15642.86,
+        "finlandBaseCurrency": "COP",
+        "finlandBasePrice": 19900.0,
+        "usBaseCurrency": "COP",
+        "usBasePrice": 21900.0
+      },
+      "yearly": {
+        "currency": "COP",
+        "price": 127900.0,
+        "year1Proceeds": 92785.71,
+        "year2Proceeds": 92785.71,
+        "secondPriceCurrency": "COP",
+        "secondPrice": 129900.0
+      }
+    },
+    {
+      "countryName": "Congo, Democratic Republic of the",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Congo, Republic of the",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Costa Rica",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Croatia",
+      "monthly": {
+        "currency": "EUR",
+        "price": 5.04,
+        "year1Proceeds": 3.43,
+        "year2Proceeds": 3.43,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 30.52,
+        "year1Proceeds": 21.07,
+        "year2Proceeds": 21.07,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Cyprus",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.56,
+        "year2Proceeds": 3.56,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.49,
+        "year1Proceeds": 22.14,
+        "year2Proceeds": 22.14,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Czech Republic",
+      "monthly": {
+        "currency": "CZK",
+        "price": 129.0,
+        "year1Proceeds": 90.62,
+        "year2Proceeds": 90.62,
+        "finlandBaseCurrency": "CZK",
+        "finlandBasePrice": 99.0,
+        "usBaseCurrency": "CZK",
+        "usBasePrice": 129.0
+      },
+      "yearly": {
+        "currency": "CZK",
+        "price": 769.0,
+        "year1Proceeds": 561.28,
+        "year2Proceeds": 561.28,
+        "secondPriceCurrency": "CZK",
+        "secondPrice": 799.0
+      }
+    },
+    {
+      "countryName": "Côte d’Ivoire",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.23,
+        "year2Proceeds": 3.23,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.2,
+        "year2Proceeds": 25.2,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Denmark",
+      "monthly": {
+        "currency": "DKK",
+        "price": 39.0,
+        "year1Proceeds": 26.52,
+        "year2Proceeds": 26.52,
+        "finlandBaseCurrency": "DKK",
+        "finlandBasePrice": 39.0,
+        "usBaseCurrency": "DKK",
+        "usBasePrice": 39.0
+      },
+      "yearly": {
+        "currency": "DKK",
+        "price": 229.0,
+        "year1Proceeds": 169.32,
+        "year2Proceeds": 169.32,
+        "secondPriceCurrency": "DKK",
+        "secondPrice": 249.0
+      }
+    },
+    {
+      "countryName": "Dominica",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Dominican Republic",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Ecuador",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Egypt",
+      "monthly": {
+        "currency": "EGP",
+        "price": 72.99,
+        "year1Proceeds": 54.42,
+        "year2Proceeds": 54.42,
+        "finlandBaseCurrency": "EGP",
+        "finlandBasePrice": 199.99,
+        "usBaseCurrency": "EGP",
+        "usBasePrice": 249.99
+      },
+      "yearly": {
+        "currency": "EGP",
+        "price": 449.99,
+        "year1Proceeds": 1118.41,
+        "year2Proceeds": 1118.41,
+        "secondPriceCurrency": "EGP",
+        "secondPrice": 1499.99
+      }
+    },
+    {
+      "countryName": "El Salvador",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Estonia",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.48,
+        "year2Proceeds": 3.48,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.49,
+        "year1Proceeds": 21.59,
+        "year2Proceeds": 21.59,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Eswatini",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Fiji",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Finland",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.38,
+        "year2Proceeds": 3.38,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 30.99,
+        "year1Proceeds": 20.99,
+        "year2Proceeds": 20.99,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "France",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.53,
+        "year2Proceeds": 3.53,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.95,
+        "year2Proceeds": 21.95,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Gabon",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Gambia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Georgia",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.95,
+        "year2Proceeds": 3.95,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 25.2,
+        "year2Proceeds": 25.2,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Germany",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.56,
+        "year2Proceeds": 3.56,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.49,
+        "year1Proceeds": 22.14,
+        "year2Proceeds": 22.14,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Ghana",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.83,
+        "year2Proceeds": 3.83,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 24.4,
+        "year2Proceeds": 24.4,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Greece",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.42,
+        "year2Proceeds": 3.42,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 30.99,
+        "year1Proceeds": 21.24,
+        "year2Proceeds": 21.24,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Grenada",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Guatemala",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Guinea-Bissau",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Guyana",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Honduras",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Hong Kong",
+      "monthly": {
+        "currency": "HKD",
+        "price": 38.0,
+        "year1Proceeds": 32.3,
+        "year2Proceeds": 32.3,
+        "finlandBaseCurrency": "HKD",
+        "finlandBasePrice": 32.0,
+        "usBaseCurrency": "HKD",
+        "usBasePrice": 38.0
+      },
+      "yearly": {
+        "currency": "HKD",
+        "price": 223.0,
+        "year1Proceeds": 193.8,
+        "year2Proceeds": 193.8,
+        "secondPriceCurrency": "HKD",
+        "secondPrice": 228.0
+      }
+    },
+    {
+      "countryName": "Hungary",
+      "monthly": {
+        "currency": "HUF",
+        "price": 1890.0,
+        "year1Proceeds": 1265.0,
+        "year2Proceeds": 1265.0,
+        "finlandBaseCurrency": "HUF",
+        "finlandBasePrice": 1790.0,
+        "usBaseCurrency": "HUF",
+        "usBasePrice": 1990.0
+      },
+      "yearly": {
+        "currency": "HUF",
+        "price": 11490.0,
+        "year1Proceeds": 8694.0,
+        "year2Proceeds": 8694.0,
+        "secondPriceCurrency": "HUF",
+        "secondPrice": 12990.0
+      }
+    },
+    {
+      "countryName": "Iceland",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.57,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 35.33,
+        "year1Proceeds": 23.99,
+        "year2Proceeds": 23.99,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 35.49
+      }
+    },
+    {
+      "countryName": "India",
+      "monthly": {
+        "currency": "INR",
+        "price": 419.0,
+        "year1Proceeds": 301.82,
+        "year2Proceeds": 301.82,
+        "finlandBaseCurrency": "INR",
+        "finlandBasePrice": 399.0,
+        "usBaseCurrency": "INR",
+        "usBasePrice": 499.0
+      },
+      "yearly": {
+        "currency": "INR",
+        "price": 2599.0,
+        "year1Proceeds": 2160.3,
+        "year2Proceeds": 2160.3,
+        "secondPriceCurrency": "INR",
+        "secondPrice": 2999.0
+      }
+    },
+    {
+      "countryName": "Indonesia",
+      "monthly": {
+        "currency": "IDR",
+        "price": 75000.0,
+        "year1Proceeds": 57432.0,
+        "year2Proceeds": 57432.0,
+        "finlandBaseCurrency": "IDR",
+        "finlandBasePrice": 69000.0,
+        "usBaseCurrency": "IDR",
+        "usBasePrice": 79000.0
+      },
+      "yearly": {
+        "currency": "IDR",
+        "price": 449000.0,
+        "year1Proceeds": 382117.0,
+        "year2Proceeds": 382117.0,
+        "secondPriceCurrency": "IDR",
+        "secondPrice": 499000.0
+      }
+    },
+    {
+      "countryName": "Iraq",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Ireland",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.45,
+        "year2Proceeds": 3.45,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.42,
+        "year2Proceeds": 21.42,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Israel",
+      "monthly": {
+        "currency": "ILS",
+        "price": 13.9,
+        "year1Proceeds": 11.82,
+        "year2Proceeds": 11.82,
+        "finlandBaseCurrency": "ILS",
+        "finlandBasePrice": 14.9,
+        "usBaseCurrency": "ILS",
+        "usBasePrice": 14.9
+      },
+      "yearly": {
+        "currency": "ILS",
+        "price": 91.9,
+        "year1Proceeds": 84.92,
+        "year2Proceeds": 84.92,
+        "secondPriceCurrency": "ILS",
+        "secondPrice": 99.9
+      }
+    },
+    {
+      "countryName": "Italy",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.46,
+        "year2Proceeds": 3.46,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.5,
+        "year2Proceeds": 21.5,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Jamaica",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Japan",
+      "monthly": {
+        "currency": "JPY",
+        "price": 550.0,
+        "year1Proceeds": 425.0,
+        "year2Proceeds": 425.0,
+        "finlandBaseCurrency": "JPY",
+        "finlandBasePrice": 600.0,
+        "usBaseCurrency": "JPY",
+        "usBasePrice": 700.0
+      },
+      "yearly": {
+        "currency": "JPY",
+        "price": 3300.0,
+        "year1Proceeds": 3864.0,
+        "year2Proceeds": 3864.0,
+        "secondPriceCurrency": "JPY",
+        "secondPrice": 5000.0
+      }
+    },
+    {
+      "countryName": "Jordan",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Kazakhstan",
+      "monthly": {
+        "currency": "KZT",
+        "price": 2190.0,
+        "year1Proceeds": 1662.05,
+        "year2Proceeds": 1662.05,
+        "finlandBaseCurrency": "KZT",
+        "finlandBasePrice": 2490.0,
+        "usBaseCurrency": "KZT",
+        "usBasePrice": 2490.0
+      },
+      "yearly": {
+        "currency": "KZT",
+        "price": 13790.0,
+        "year1Proceeds": 13653.13,
+        "year2Proceeds": 13653.13,
+        "secondPriceCurrency": "KZT",
+        "secondPrice": 17990.0
+      }
+    },
+    {
+      "countryName": "Kenya",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 4.01,
+        "year2Proceeds": 4.01,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 32.99,
+        "year1Proceeds": 25.58,
+        "year2Proceeds": 25.58,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Korea, Republic of",
+      "monthly": {
+        "currency": "KRW",
+        "price": 6000.0,
+        "year1Proceeds": 4636.0,
+        "year2Proceeds": 4636.0,
+        "finlandBaseCurrency": "KRW",
+        "finlandBasePrice": 5500.0,
+        "usBaseCurrency": "KRW",
+        "usBasePrice": 6600.0
+      },
+      "yearly": {
+        "currency": "KRW",
+        "price": 37000.0,
+        "year1Proceeds": 34000.0,
+        "year2Proceeds": 34000.0,
+        "secondPriceCurrency": "KRW",
+        "secondPrice": 44000.0
+      }
+    },
+    {
+      "countryName": "Kosovo",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.59,
+        "year2Proceeds": 3.59,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 28.99,
+        "year1Proceeds": 22.32,
+        "year2Proceeds": 22.32,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Kuwait",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Kyrgyzstan",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.99,
+        "year1Proceeds": 3.79,
+        "year2Proceeds": 3.79,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 31.99,
+        "year1Proceeds": 22.76,
+        "year2Proceeds": 22.76,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Laos",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.47,
+        "year2Proceeds": 3.47,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 23.17,
+        "year2Proceeds": 23.17,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Latvia",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.51,
+        "year2Proceeds": 3.51,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.77,
+        "year2Proceeds": 21.77,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Lebanon",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Liberia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Libya",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Lithuania",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.51,
+        "year2Proceeds": 3.51,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.77,
+        "year2Proceeds": 21.77,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Luxembourg",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.63,
+        "year2Proceeds": 3.63,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 28.99,
+        "year1Proceeds": 22.51,
+        "year2Proceeds": 22.51,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Macau",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Madagascar",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Malawi",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Malaysia",
+      "monthly": {
+        "currency": "MYR",
+        "price": 20.9,
+        "year1Proceeds": 16.45,
+        "year2Proceeds": 16.45,
+        "finlandBaseCurrency": "MYR",
+        "finlandBasePrice": 19.9,
+        "usBaseCurrency": "MYR",
+        "usBasePrice": 20.9
+      },
+      "yearly": {
+        "currency": "MYR",
+        "price": 124.9,
+        "year1Proceeds": 102.24,
+        "year2Proceeds": 102.24,
+        "secondPriceCurrency": "MYR",
+        "secondPrice": 129.9
+      }
+    },
+    {
+      "countryName": "Maldives",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Mali",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Malta",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.59,
+        "year2Proceeds": 3.59,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 28.99,
+        "year1Proceeds": 22.32,
+        "year2Proceeds": 22.32,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Mauritania",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Mauritius",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Mexico",
+      "monthly": {
+        "currency": "MXN",
+        "price": 115.0,
+        "year1Proceeds": 84.27,
+        "year2Proceeds": 84.27,
+        "finlandBaseCurrency": "MXN",
+        "finlandBasePrice": 89.0,
+        "usBaseCurrency": "MXN",
+        "usBasePrice": 115.0
+      },
+      "yearly": {
+        "currency": "MXN",
+        "price": 669.0,
+        "year1Proceeds": 438.92,
+        "year2Proceeds": 438.92,
+        "secondPriceCurrency": "MXN",
+        "secondPrice": 669.0
+      }
+    },
+    {
+      "countryName": "Micronesia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Moldova",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.89,
+        "year2Proceeds": 3.89,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 24.78,
+        "year2Proceeds": 24.78,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Mongolia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Montenegro",
+      "monthly": {
+        "currency": "EUR",
+        "price": 3.99,
+        "year1Proceeds": 3.39,
+        "year2Proceeds": 3.39,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 3.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 24.49,
+        "year1Proceeds": 21.24,
+        "year2Proceeds": 21.24,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 24.99
+      }
+    },
+    {
+      "countryName": "Montserrat",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Morocco",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Mozambique",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Myanmar",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Namibia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Nauru",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Nepal",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.31,
+        "year2Proceeds": 3.31,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.79,
+        "year2Proceeds": 25.79,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Netherlands",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.51,
+        "year2Proceeds": 3.51,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.77,
+        "year2Proceeds": 21.77,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "New Zealand",
+      "monthly": {
+        "currency": "NZD",
+        "price": 7.49,
+        "year1Proceeds": 5.54,
+        "year2Proceeds": 5.54,
+        "finlandBaseCurrency": "NZD",
+        "finlandBasePrice": 6.99,
+        "usBaseCurrency": "NZD",
+        "usBasePrice": 7.99
+      },
+      "yearly": {
+        "currency": "NZD",
+        "price": 45.99,
+        "year1Proceeds": 36.95,
+        "year2Proceeds": 36.95,
+        "secondPriceCurrency": "NZD",
+        "secondPrice": 49.99
+      }
+    },
+    {
+      "countryName": "Nicaragua",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Niger",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Nigeria",
+      "monthly": {
+        "currency": "NGN",
+        "price": 2000.0,
+        "year1Proceeds": 1581.4,
+        "year2Proceeds": 1581.4,
+        "finlandBaseCurrency": "NGN",
+        "finlandBasePrice": 6900.0,
+        "usBaseCurrency": "NGN",
+        "usBasePrice": 6900.0
+      },
+      "yearly": {
+        "currency": "NGN",
+        "price": 12700.0,
+        "year1Proceeds": 39455.81,
+        "year2Proceeds": 39455.81,
+        "secondPriceCurrency": "NGN",
+        "secondPrice": 49900.0
+      }
+    },
+    {
+      "countryName": "North Macedonia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Norway",
+      "monthly": {
+        "currency": "NOK",
+        "price": 49.0,
+        "year1Proceeds": 33.32,
+        "year2Proceeds": 33.32,
+        "finlandBaseCurrency": "NOK",
+        "finlandBasePrice": 49.0,
+        "usBaseCurrency": "NOK",
+        "usBasePrice": 59.0
+      },
+      "yearly": {
+        "currency": "NOK",
+        "price": 299.0,
+        "year1Proceeds": 271.32,
+        "year2Proceeds": 271.32,
+        "secondPriceCurrency": "NOK",
+        "secondPrice": 399.0
+      }
+    },
+    {
+      "countryName": "Oman",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.99,
+        "year1Proceeds": 4.04,
+        "year2Proceeds": 4.04,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 29.99,
+        "year1Proceeds": 24.28,
+        "year2Proceeds": 24.28,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Pakistan",
+      "monthly": {
+        "currency": "PKR",
+        "price": 800.0,
+        "year1Proceeds": 680.0,
+        "year2Proceeds": 680.0,
+        "finlandBaseCurrency": "PKR",
+        "finlandBasePrice": 1100.0,
+        "usBaseCurrency": "PKR",
+        "usBasePrice": 1200.0
+      },
+      "yearly": {
+        "currency": "PKR",
+        "price": 4900.0,
+        "year1Proceeds": 6715.0,
+        "year2Proceeds": 6715.0,
+        "secondPriceCurrency": "PKR",
+        "secondPrice": 7900.0
+      }
+    },
+    {
+      "countryName": "Palau",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Panama",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Papua New Guinea",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Paraguay",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Peru",
+      "monthly": {
+        "currency": "PEN",
+        "price": 18.9,
+        "year1Proceeds": 13.61,
+        "year2Proceeds": 13.61,
+        "finlandBaseCurrency": "PEN",
+        "finlandBasePrice": 17.9,
+        "usBaseCurrency": "PEN",
+        "usBasePrice": 19.9
+      },
+      "yearly": {
+        "currency": "PEN",
+        "price": 114.9,
+        "year1Proceeds": 93.57,
+        "year2Proceeds": 93.57,
+        "secondPriceCurrency": "PEN",
+        "secondPrice": 129.9
+      }
+    },
+    {
+      "countryName": "Philippines",
+      "monthly": {
+        "currency": "PHP",
+        "price": 229.0,
+        "year1Proceeds": 194.65,
+        "year2Proceeds": 194.65,
+        "finlandBaseCurrency": "PHP",
+        "finlandBasePrice": 199.0,
+        "usBaseCurrency": "PHP",
+        "usBasePrice": 249.0
+      },
+      "yearly": {
+        "currency": "PHP",
+        "price": 1450.0,
+        "year1Proceeds": 1521.5,
+        "year2Proceeds": 1521.5,
+        "secondPriceCurrency": "PHP",
+        "secondPrice": 1790.0
+      }
+    },
+    {
+      "countryName": "Poland",
+      "monthly": {
+        "currency": "PLN",
+        "price": 23.99,
+        "year1Proceeds": 16.58,
+        "year2Proceeds": 16.58,
+        "finlandBaseCurrency": "PLN",
+        "finlandBasePrice": 19.99,
+        "usBaseCurrency": "PLN",
+        "usBasePrice": 24.99
+      },
+      "yearly": {
+        "currency": "PLN",
+        "price": 139.99,
+        "year1Proceeds": 103.65,
+        "year2Proceeds": 103.65,
+        "secondPriceCurrency": "PLN",
+        "secondPrice": 149.99
+      }
+    },
+    {
+      "countryName": "Portugal",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.45,
+        "year2Proceeds": 3.45,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.42,
+        "year2Proceeds": 21.42,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Qatar",
+      "monthly": {
+        "currency": "QAR",
+        "price": 16.99,
+        "year1Proceeds": 14.44,
+        "year2Proceeds": 14.44,
+        "finlandBaseCurrency": "QAR",
+        "finlandBasePrice": 14.99,
+        "usBaseCurrency": "QAR",
+        "usBasePrice": 16.99
+      },
+      "yearly": {
+        "currency": "QAR",
+        "price": 104.99,
+        "year1Proceeds": 84.99,
+        "year2Proceeds": 84.99,
+        "secondPriceCurrency": "QAR",
+        "secondPrice": 104.99
+      }
+    },
+    {
+      "countryName": "Romania",
+      "monthly": {
+        "currency": "RON",
+        "price": 23.99,
+        "year1Proceeds": 17.14,
+        "year2Proceeds": 17.14,
+        "finlandBaseCurrency": "RON",
+        "finlandBasePrice": 19.99,
+        "usBaseCurrency": "RON",
+        "usBasePrice": 24.99
+      },
+      "yearly": {
+        "currency": "RON",
+        "price": 144.99,
+        "year1Proceeds": 107.14,
+        "year2Proceeds": 107.14,
+        "secondPriceCurrency": "RON",
+        "secondPrice": 149.99
+      }
+    },
+    {
+      "countryName": "Russia",
+      "monthly": {
+        "currency": "RUB",
+        "price": 399.0,
+        "year1Proceeds": 282.63,
+        "year2Proceeds": 282.63,
+        "finlandBaseCurrency": "RUB",
+        "finlandBasePrice": 349.0,
+        "usBaseCurrency": "RUB",
+        "usBasePrice": 399.0
+      },
+      "yearly": {
+        "currency": "RUB",
+        "price": 2390.0,
+        "year1Proceeds": 1763.75,
+        "year2Proceeds": 1763.75,
+        "secondPriceCurrency": "RUB",
+        "secondPrice": 2490.0
+      }
+    },
+    {
+      "countryName": "Rwanda",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Saudi Arabia",
+      "monthly": {
+        "currency": "SAR",
+        "price": 19.99,
+        "year1Proceeds": 14.78,
+        "year2Proceeds": 14.78,
+        "finlandBaseCurrency": "SAR",
+        "finlandBasePrice": 17.99,
+        "usBaseCurrency": "SAR",
+        "usBasePrice": 19.99
+      },
+      "yearly": {
+        "currency": "SAR",
+        "price": 122.99,
+        "year1Proceeds": 96.08,
+        "year2Proceeds": 96.08,
+        "secondPriceCurrency": "SAR",
+        "secondPrice": 129.99
+      }
+    },
+    {
+      "countryName": "Senegal",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.23,
+        "year2Proceeds": 3.23,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.2,
+        "year2Proceeds": 25.2,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Serbia",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.53,
+        "year2Proceeds": 3.53,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.49,
+        "year1Proceeds": 21.95,
+        "year2Proceeds": 21.95,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Seychelles",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Sierra Leone",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Singapore",
+      "monthly": {
+        "currency": "SGD",
+        "price": 6.98,
+        "year1Proceeds": 5.44,
+        "year2Proceeds": 5.44,
+        "finlandBaseCurrency": "SGD",
+        "finlandBasePrice": 5.98,
+        "usBaseCurrency": "SGD",
+        "usBasePrice": 5.98
+      },
+      "yearly": {
+        "currency": "SGD",
+        "price": 40.98,
+        "year1Proceeds": 31.18,
+        "year2Proceeds": 31.18,
+        "secondPriceCurrency": "SGD",
+        "secondPrice": 40.98
+      }
+    },
+    {
+      "countryName": "Slovakia",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.45,
+        "year2Proceeds": 3.45,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.49,
+        "year1Proceeds": 21.42,
+        "year2Proceeds": 21.42,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Slovenia",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.48,
+        "year2Proceeds": 3.48,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.59,
+        "year2Proceeds": 21.59,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Solomon Islands",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "South Africa",
+      "monthly": {
+        "currency": "ZAR",
+        "price": 84.99,
+        "year1Proceeds": 62.82,
+        "year2Proceeds": 62.82,
+        "finlandBaseCurrency": "ZAR",
+        "finlandBasePrice": 79.99,
+        "usBaseCurrency": "ZAR",
+        "usBasePrice": 99.99
+      },
+      "yearly": {
+        "currency": "ZAR",
+        "price": 489.99,
+        "year1Proceeds": 443.47,
+        "year2Proceeds": 443.47,
+        "secondPriceCurrency": "ZAR",
+        "secondPrice": 599.99
+      }
+    },
+    {
+      "countryName": "Spain",
+      "monthly": {
+        "currency": "EUR",
+        "price": 4.99,
+        "year1Proceeds": 3.5,
+        "year2Proceeds": 3.5,
+        "finlandBaseCurrency": "EUR",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "EUR",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "EUR",
+        "price": 29.99,
+        "year1Proceeds": 21.72,
+        "year2Proceeds": 21.72,
+        "secondPriceCurrency": "EUR",
+        "secondPrice": 30.99
+      }
+    },
+    {
+      "countryName": "Sri Lanka",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "St. Kitts and Nevis",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "St. Lucia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "St. Vincent and the Grenadines",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Suriname",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.47,
+        "year2Proceeds": 3.47,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 23.17,
+        "year2Proceeds": 23.17,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Sweden",
+      "monthly": {
+        "currency": "SEK",
+        "price": 50.0,
+        "year1Proceeds": 34.0,
+        "year2Proceeds": 34.0,
+        "finlandBaseCurrency": "SEK",
+        "finlandBasePrice": 49.0,
+        "usBaseCurrency": "SEK",
+        "usBasePrice": 59.0
+      },
+      "yearly": {
+        "currency": "SEK",
+        "price": 305.0,
+        "year1Proceeds": 271.32,
+        "year2Proceeds": 271.32,
+        "secondPriceCurrency": "SEK",
+        "secondPrice": 399.0
+      }
+    },
+    {
+      "countryName": "Switzerland",
+      "monthly": {
+        "currency": "CHF",
+        "price": 4.5,
+        "year1Proceeds": 3.54,
+        "year2Proceeds": 3.54,
+        "finlandBaseCurrency": "CHF",
+        "finlandBasePrice": 4.0,
+        "usBaseCurrency": "CHF",
+        "usBasePrice": 4.5
+      },
+      "yearly": {
+        "currency": "CHF",
+        "price": 28.5,
+        "year1Proceeds": 23.59,
+        "year2Proceeds": 23.59,
+        "secondPriceCurrency": "CHF",
+        "secondPrice": 30.0
+      }
+    },
+    {
+      "countryName": "São Tomé and Príncipe",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Taiwan",
+      "monthly": {
+        "currency": "TWD",
+        "price": 140.0,
+        "year1Proceeds": 110.0,
+        "year2Proceeds": 110.0,
+        "finlandBaseCurrency": "TWD",
+        "finlandBasePrice": 120.0,
+        "usBaseCurrency": "TWD",
+        "usBasePrice": 150.0
+      },
+      "yearly": {
+        "currency": "TWD",
+        "price": 860.0,
+        "year1Proceeds": 777.0,
+        "year2Proceeds": 777.0,
+        "secondPriceCurrency": "TWD",
+        "secondPrice": 990.0
+      }
+    },
+    {
+      "countryName": "Tajikistan",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 4.09,
+        "year2Proceeds": 4.09,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 32.99,
+        "year1Proceeds": 22.36,
+        "year2Proceeds": 22.36,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 32.99
+      }
+    },
+    {
+      "countryName": "Tanzania",
+      "monthly": {
+        "currency": "TZS",
+        "price": 10500.0,
+        "year1Proceeds": 7412.29,
+        "year2Proceeds": 7412.29,
+        "finlandBaseCurrency": "TZS",
+        "finlandBasePrice": 11900.0,
+        "usBaseCurrency": "TZS",
+        "usBasePrice": 12900.0
+      },
+      "yearly": {
+        "currency": "TZS",
+        "price": 65900.0,
+        "year1Proceeds": 63463.31,
+        "year2Proceeds": 63463.31,
+        "secondPriceCurrency": "TZS",
+        "secondPrice": 89900.0
+      }
+    },
+    {
+      "countryName": "Thailand",
+      "monthly": {
+        "currency": "THB",
+        "price": 169.0,
+        "year1Proceeds": 134.25,
+        "year2Proceeds": 134.25,
+        "finlandBaseCurrency": "THB",
+        "finlandBasePrice": 149.0,
+        "usBaseCurrency": "THB",
+        "usBasePrice": 149.0
+      },
+      "yearly": {
+        "currency": "THB",
+        "price": 1020.0,
+        "year1Proceeds": 793.6,
+        "year2Proceeds": 793.6,
+        "secondPriceCurrency": "THB",
+        "secondPrice": 1020.0
+      }
+    },
+    {
+      "countryName": "Tonga",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Trinidad and Tobago",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Tunisia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Turkmenistan",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Turks and Caicos Islands",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Türkiye",
+      "monthly": {
+        "currency": "TRY",
+        "price": 77.99,
+        "year1Proceeds": 51.1,
+        "year2Proceeds": 51.1,
+        "finlandBaseCurrency": "TRY",
+        "finlandBasePrice": 179.99,
+        "usBaseCurrency": "TRY",
+        "usBasePrice": 199.99
+      },
+      "yearly": {
+        "currency": "TRY",
+        "price": 349.99,
+        "year1Proceeds": 851.76,
+        "year2Proceeds": 851.76,
+        "secondPriceCurrency": "TRY",
+        "secondPrice": 1299.99
+      }
+    },
+    {
+      "countryName": "Uganda",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.76,
+        "year2Proceeds": 3.76,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 23.94,
+        "year2Proceeds": 23.94,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Ukraine",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.89,
+        "year2Proceeds": 3.89,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 5.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 24.78,
+        "year2Proceeds": 24.78,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "United Arab Emirates",
+      "monthly": {
+        "currency": "AED",
+        "price": 17.99,
+        "year1Proceeds": 14.56,
+        "year2Proceeds": 14.56,
+        "finlandBaseCurrency": "AED",
+        "finlandBasePrice": 14.99,
+        "usBaseCurrency": "AED",
+        "usBasePrice": 17.99
+      },
+      "yearly": {
+        "currency": "AED",
+        "price": 109.99,
+        "year1Proceeds": 97.13,
+        "year2Proceeds": 97.13,
+        "secondPriceCurrency": "AED",
+        "secondPrice": 119.99
+      }
+    },
+    {
+      "countryName": "United Kingdom",
+      "monthly": {
+        "currency": "GBP",
+        "price": 3.99,
+        "year1Proceeds": 2.82,
+        "year2Proceeds": 2.82,
+        "finlandBaseCurrency": "GBP",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "GBP",
+        "usBasePrice": 3.99
+      },
+      "yearly": {
+        "currency": "GBP",
+        "price": 24.99,
+        "year1Proceeds": 21.18,
+        "year2Proceeds": 21.18,
+        "secondPriceCurrency": "GBP",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "United States",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Uruguay",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.99,
+        "year1Proceeds": 4.17,
+        "year2Proceeds": 4.17,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 29.49,
+        "year1Proceeds": 25.08,
+        "year2Proceeds": 25.08,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Uzbekistan",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 4.17,
+        "year2Proceeds": 4.17,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 32.99,
+        "year1Proceeds": 22.76,
+        "year2Proceeds": 22.76,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 32.99
+      }
+    },
+    {
+      "countryName": "Vanuatu",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Venezuela",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Vietnam",
+      "monthly": {
+        "currency": "VND",
+        "price": 119000.0,
+        "year1Proceeds": 91035.0,
+        "year2Proceeds": 91035.0,
+        "finlandBaseCurrency": "VND",
+        "finlandBasePrice": 99000.0,
+        "usBaseCurrency": "VND",
+        "usBasePrice": 119000.0
+      },
+      "yearly": {
+        "currency": "VND",
+        "price": 719000.0,
+        "year1Proceeds": 611235.0,
+        "year2Proceeds": 611235.0,
+        "secondPriceCurrency": "VND",
+        "secondPrice": 799000.0
+      }
+    },
+    {
+      "countryName": "Yemen",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.82,
+        "year2Proceeds": 3.82,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 3.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.49
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.49,
+        "year2Proceeds": 25.49,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 29.99
+      }
+    },
+    {
+      "countryName": "Zambia",
+      "monthly": {
+        "currency": "USD",
+        "price": 4.49,
+        "year1Proceeds": 3.29,
+        "year2Proceeds": 3.29,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 28.49,
+        "year1Proceeds": 25.64,
+        "year2Proceeds": 25.64,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    },
+    {
+      "countryName": "Zimbabwe",
+      "monthly": {
+        "currency": "USD",
+        "price": 5.49,
+        "year1Proceeds": 3.85,
+        "year2Proceeds": 3.85,
+        "finlandBaseCurrency": "USD",
+        "finlandBasePrice": 4.99,
+        "usBaseCurrency": "USD",
+        "usBasePrice": 4.99
+      },
+      "yearly": {
+        "currency": "USD",
+        "price": 33.99,
+        "year1Proceeds": 24.57,
+        "year2Proceeds": 24.57,
+        "secondPriceCurrency": "USD",
+        "secondPrice": 34.99
+      }
+    }
+  ]
+}

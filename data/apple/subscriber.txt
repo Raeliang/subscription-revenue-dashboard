@@ -1,0 +1,294 @@
+Event Date	App Name	App Apple ID	Subscription Name	Subscription Apple ID	Subscription Group ID	Standard Subscription Duration	Subscription Offer Name	Promotional Offer ID	Subscription Offer Type	Subscription Offer Duration	Marketing Opt-In Duration	Customer Price	Customer Currency	Developer Proceeds	Proceeds Currency	Preserved Pricing	Proceeds Reason	Client	Device	Country	Subscriber ID	Subscriber ID Reset	Refund	Purchase Date	Units
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						169.00	THB	134.25	THB	 	Rate After One Year	 	iPhone	TH	217729369083102				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	Rate After One Year	 	iPhone	DK	483620824443927				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	273715803710281				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	539533987002411				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						11490.00	HUF	7690.00	HUF	 	Rate After One Year	 	iPhone	HU	441705723597140				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						139.99	PLN	96.74	PLN	 	Rate After One Year	 	iPhone	PL	455608844025008				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month			Free Trial	2 Weeks		0.00	GBP	0.00	GBP	 	 	 	iPhone	GB	203703958792070				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						129.00	CZK	90.62	CZK	 	Rate After One Year	 	iPhone	CZ	777564919476305				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	245609993767728				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	154587061522378				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.89	EUR	 	Rate After One Year	 	iPhone	AT	518492513861072				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	21.06	EUR	 	Rate After One Year	 	iPhone	DE	525662891774043				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	539534910185462				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						3.99	GBP	2.82	GBP	 	 	 	iPhone	GB	455608848119266				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						139.99	PLN	96.74	PLN	 	Rate After One Year	 	iPhone	PL	259749806424789				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	US	483620832065380				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	 	 	iPhone	DK	532629476526548				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	238736774991066				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	161707315332180				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	455608839070198				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	770512090512628				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	616643979152294				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.21	EUR	 	Rate After One Year	 	iPhone	EE	700515406442154				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	Rate After One Year	 	iPhone	DK	672521337097822				1
+2026-05-10	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	21.07	EUR	 	Rate After One Year	 	iPhone	NL	665604083025884				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						28.49	USD	24.22	USD	 	Rate After One Year	 	iPhone	AR	546558953104789				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.89	EUR	 	Rate After One Year	 	iPhone	AT	154587460316683				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						305.00	SEK	207.40	SEK	 	Rate After One Year	 	iPhone	SE	658528659673677				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.56	EUR	 	 	 	iPhone	DE	238736729117987				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.45	EUR	 	Rate After One Year	 	iPhone	SK	238736728294766				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	420714848337898				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	US	196625695999903				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						50.00	SEK	34.00	SEK	 	Rate After One Year	 	iPhone	SE	700514444343240				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	20.81	EUR	 	Rate After One Year	 	iPhone	IT	546558942873414				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						299.00	NOK	203.32	NOK	 	Rate After One Year	 	iPhone	NO	560607292749366				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						28.49	USD	24.22	USD	 	Rate After One Year	 	iPhone	US	420714852819452				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	574654708041563				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						1990.00	HUF	1332.00	HUF	 	 	 	iPhone	HU	679505033464938				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	NL	266707716604261				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	518491567837756				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	238737904445889				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	US	434698138617766				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						24.99	GBP	17.65	GBP	 	Rate After One Year	 	iPhone	GB	252676419790762				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						129.00	CZK	90.62	CZK	 	Rate After One Year	 	iPhone	CZ	588641590371179				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	Rate After One Year	 	iPhone	DK	273715192141141				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	469633705736785				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						229.00	DKK	155.72	DKK	 	Rate After One Year	 	iPhone	DK	581615230043066				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	420714849232246				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						129.00	CZK	90.62	CZK	 	Rate After One Year	 	iPhone	CZ	637508497676696				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						91.90	ILS	78.12	ILS	 	Rate After One Year	 	iPhone	IL	679505988831861				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	Rate After One Year	 	iPhone	DK	476607022233785				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	203702959794805				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	21.24	EUR	 	Rate After One Year	 	iPhone	GR	497593254147082				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						6.99	AUD	5.40	AUD	 	 	 	iPhone	AU	567660791995236				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	US	154587053383933				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						28.49	USD	24.22	USD	 	Rate After One Year	 	iPhone	US	560607297084655				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month			Free Trial	2 Weeks		0.00	THB	0.00	THB	 	 	 	iPhone	TH	672522242858545				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	602645727261433				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	476607029928171				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.38	EUR	 	Rate After One Year	 	iPhone	SK	511601699155640				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	US	203702939000843				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						21900.00	COP	15642.86	COP	 	Rate After One Year	 	iPhone	CO	791483484240787				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						3.99	GBP	2.82	GBP	 	 	 	iPhone	GB	686481348383280				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						769.00	CZK	540.21	CZK	 	Rate After One Year	 	iPhone	CZ	238737907673946				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	210614618267160				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	462656694321026				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	21.02	EUR	 	Rate After One Year	 	iPhone	ES	777566024002784				1
+2026-05-08	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						139.99	PLN	96.74	PLN	 	Rate After One Year	 	iPhone	PL	518492514718439				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	GBP	0.00	GBP	 	 	 	iPhone	GB	259749813270789				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month			Free Trial	2 Weeks		0.00	TWD	0.00	TWD	 	 	 	iPhone	TW	455608837852205				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	 	 	iPhone	DK	511600811596989				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						139.99	PLN	96.74	PLN	 	Rate After One Year	 	iPhone	PL	217730536457184				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	US	672521737809770				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	672522237884394				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	US	616642840975583				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	 	 	iPhone	DK	588641612238507				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	21.06	EUR	 	Rate After One Year	 	iPhone	DE	420714851506147				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						2190.00	KZT	1604.74	KZT	 	 	 	iPhone	KZ	441705337767178				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	Rate After One Year	 	iPhone	DK	630599264252778				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	238736706466036				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						13.90	ILS	11.82	ILS	 	Rate After One Year	 	iPhone	IL	217729376613289				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						769.00	CZK	540.21	CZK	 	Rate After One Year	 	iPhone	CZ	658528664357895				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	567660789040242				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	602645710313950				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.53	EUR	 	 	 	iPhone	FR	266707191458822				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						305.00	SEK	207.40	SEK	 	Rate After One Year	 	iPhone	SE	609641878626671				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						5.57	USD	3.82	USD	 	Rate After One Year	 	iPhone	IS	483620841145101				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	623597773590038				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	DE	644575277493121				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month			Free Trial	2 Weeks		0.00	THB	0.00	THB	 	 	 	iPhone	TH	210614621006869				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	483620824803153				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	21.06	EUR	 	Rate After One Year	 	iPhone	DE	791484535071456				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	20.81	EUR	 	Rate After One Year	 	iPhone	IT	630600247549204				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						305.00	SEK	207.40	SEK	 	Rate After One Year	 	iPhone	SE	574655746733084				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						91.90	ILS	78.12	ILS	 	Rate After One Year	 	iPhone	IL	266707722314378				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	574655747369958				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	777564918709238				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						769.00	CZK	540.21	CZK	 	Rate After One Year	 	iPhone	CZ	189736838453332				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	MYR	0.00	MYR	 	 	 	iPhone	MY	203703951370978				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.21	EUR	 	Rate After One Year	 	iPhone	EE	791484536885072				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	539534918341267				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FR	476608047645298				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	770513085049710				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year						39.99	CAD	33.99	CAD	 	 	 	iPhone	CA	777566030259314				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	210613868022196				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	US	511600834781290				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	252676422541720				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	672522239744812				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						11490.00	HUF	7690.00	HUF	 	Rate After One Year	 	iPhone	HU	637509494070794				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.38	EUR	 	Rate After One Year	 	iPhone	SK	525662892778116				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4500.00	CLP	3214.00	CLP	 	Rate After One Year	 	iPhone	CL	441704888676690				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						49.00	NOK	33.32	NOK	 	Rate After One Year	 	iPhone	NO	259748540416948				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	20.81	EUR	 	Rate After One Year	 	iPhone	IT	161708239408844				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	Rate After One Year	 	iPhone	DK	546558360928071				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	525661841785705				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month			Free Trial	2 Weeks		0.00	PLN	0.00	PLN	 	 	 	iPhone	PL	609641879775133				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	MG	525661837147015				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year						30.99	EUR	20.99	EUR	 	 	 	iPhone	FI	427627588041292				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.79	EUR	3.39	EUR	 	 	 	iPhone	BG	504645480160677				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	616642823030117				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	259749805182156				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	588642590989602				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	784482917392127				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	686481000526022				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.51	EUR	 	Rate After One Year	 	iPhone	NL	455608088219125				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	US	497592259290870				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	Rate After One Year	 	iPhone	DK	497592235308394				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	448671167548655				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.53	EUR	 	Rate After One Year	 	iPhone	RS	553431872828382				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						769.00	CZK	540.21	CZK	 	Rate After One Year	 	iPhone	CZ	462656687817375				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year						30.99	EUR	21.50	EUR	 	 	 	iPhone	IT	567661393782373				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	US	259748549263856				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.50	EUR	 	Rate After One Year	 	iPhone	ES	637508495530188				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	266707158904230				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	US	588641603332463				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	588641605033491				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						769.00	CZK	540.21	CZK	 	Rate After One Year	 	iPhone	CZ	266707708514627				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year						30.99	EUR	20.99	EUR	 	 	 	iPhone	FI	546558721120470				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						41.99	AUD	32.45	AUD	 	Rate After One Year	 	iPhone	AU	420714854917954				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.42	EUR	 	Rate After One Year	 	iPhone	EE	490604396269066				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.46	EUR	 	 	 	iPhone	IT	693512106341826				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						28.99	EUR	20.53	EUR	 	Rate After One Year	 	iPhone	BG	602646815616253				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						305.00	SEK	207.40	SEK	 	Rate After One Year	 	iPhone	SE	784482916604487				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	182644313469249				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						5.98	SGD	4.66	SGD	 	 	 	iPhone	SG	259747958515614				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	BF	539533986531339				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	700515405814807				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	21.02	EUR	 	Rate After One Year	 	iPhone	ES	182644311416527				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	AR	497592273587775				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.46	EUR	 	 	 	iPhone	IT	210613864747512				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						49.00	NOK	33.32	NOK	 	Rate After One Year	 	iPhone	NO	238736719552536				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	21.06	EUR	 	Rate After One Year	 	iPhone	DE	245611010171550				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	224776009195019				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						299.00	NOK	203.32	NOK	 	Rate After One Year	 	iPhone	NO	420714847821571				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	US	567660823738080				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	777564923802410				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	203702926306182				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	273715812758243				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						3.99	GBP	2.82	GBP	 	 	 	iPhone	GB	546558053688306				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.51	EUR	 	 	 	iPhone	NL	784481832230301				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	567661778012457				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	637508501071402				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						3.99	GBP	2.82	GBP	 	Rate After One Year	 	iPhone	GB	679505039369165				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						229.00	DKK	155.72	DKK	 	Rate After One Year	 	iPhone	DK	203703955370211				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	504646340558593				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	616643974634697				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						5.99	CAD	5.09	CAD	 	Rate After One Year	 	iPhone	CA	665603092898067				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						6.98	SGD	5.44	SGD	 	Rate After One Year	 	iPhone	SG	560606916823123				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	567661024637576				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.21	EUR	 	Rate After One Year	 	iPhone	EE	595633498634512				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	259748524151286				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						59.00	NOK	40.12	NOK	 	 	 	iPhone	NO	595632543216608				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	532630412398618				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	672521414210718				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4500.00	CLP	3214.00	CLP	 	Rate After One Year	 	iPhone	CL	658527764063990				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						129.00	CZK	90.62	CZK	 	Rate After One Year	 	iPhone	CZ	273715194390829				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						28.50	CHF	22.41	CHF	 	Rate After One Year	 	iPhone	CH	784482920917866				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						769.00	CZK	540.21	CZK	 	Rate After One Year	 	iPhone	CZ	616643978175640				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.53	EUR	 	 	 	iPhone	FR	245610621986648				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						41.99	AUD	32.45	AUD	 	Rate After One Year	 	iPhone	AU	189736834375608				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	21.06	EUR	 	Rate After One Year	 	iPhone	DE	266707714315968				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	623597780001849				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						24.99	GBP	17.65	GBP	 	Rate After One Year	 	iPhone	GB	434698914652536				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						28.49	USD	24.22	USD	 	Rate After One Year	 	iPhone	US	665604087976046				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.89	EUR	 	Rate After One Year	 	iPhone	AT	161708239432280				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year						12990.00	HUF	8694.00	HUF	 	 	 	iPhone	HU	441705509756079				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						769.00	CZK	540.21	CZK	 	Rate After One Year	 	iPhone	CZ	210614619716293				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	609641880453825				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	420714117507749				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.38	EUR	 	Rate After One Year	 	iPhone	SK	203703953573325				1
+2026-05-06	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	455608034337570				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	CG	637508501166595				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	182643404446358				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						229.00	DKK	155.72	DKK	 	Rate After One Year	 	iPhone	DK	553432922925815				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	21.02	EUR	 	Rate After One Year	 	iPhone	ES	574655745328072				1
+2026-05-04	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	525661484207414				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						129.00	CZK	90.62	CZK	 	Rate After One Year	 	iPhone	CZ	224774792276960				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	273715606099854				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						23.99	PLN	16.58	PLN	 	 	 	iPhone	PL	434698115906770				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	476608046945361				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	602646815536201				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						41.99	AUD	32.45	AUD	 	Rate After One Year	 	iPhone	AU	238737900781998				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year						29.99	USD	25.49	USD	 	 	 	iPhone	US	497593006373913				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	679505120939556				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	252676424311138				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						299.00	NOK	203.32	NOK	 	Rate After One Year	 	iPhone	NO	210614617044260				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	US	791483483869647				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	539533976628635				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	504646347788648				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.56	EUR	 	Rate After One Year	 	iPhone	DE	203702919523161				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						24.99	GBP	17.65	GBP	 	Rate After One Year	 	iPhone	GB	203703950742609				1
+2026-05-01	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	784481506497908				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	210613876295237				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	PLN	0.00	PLN	 	 	 	iPhone	PL	217730535324479				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	553431885785067				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	189735681484407				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						23.99	RON	16.85	RON	 	 	 	iPhone	RO	644574302853952				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	777566033686948				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	273715176232780				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						3.99	GBP	2.82	GBP	 	 	 	iPhone	GB	560606920291518				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	Rate After One Year	 	iPhone	DK	581614229856760				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	266707158885015				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.53	EUR	 	 	 	iPhone	FR	490603774644650				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	21.06	EUR	 	Rate After One Year	 	iPhone	DE	567661776798370				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	US	546558371060235				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	469633706180711				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	20.21	EUR	 	Rate After One Year	 	iPhone	EE	511601696059407				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	630600245146517				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	259748530656596				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	224774795994765				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	602646809262178				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year						30.99	EUR	20.99	EUR	 	 	 	iPhone	FI	252676016954643				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						299.00	NOK	203.32	NOK	 	Rate After One Year	 	iPhone	NO	700515405684705				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	20.81	EUR	 	Rate After One Year	 	iPhone	IT	189736853071257				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	266707719277904				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	651572333115909				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						50.00	SEK	34.00	SEK	 	Rate After One Year	 	iPhone	SE	777564906247572				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	609641882359582				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						5.99	CAD	5.09	CAD	 	 	 	iPhone	CA	420714668265530				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	574655744524248				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	238737904594947				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	644575271461466				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	581614216742148				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	574654705519239				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						769.00	CZK	540.21	CZK	 	Rate After One Year	 	iPhone	CZ	532630404838128				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	21.02	EUR	 	Rate After One Year	 	iPhone	ES	588642588563794				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						28.49	USD	24.22	USD	 	Rate After One Year	 	iPhone	US	518492515389424				1
+2026-05-10	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.56	EUR	 	Rate After One Year	 	iPhone	DE	616642774858154				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						129.00	CZK	90.62	CZK	 	Rate After One Year	 	iPhone	CZ	784481843125983				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	182643386240982				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	672521337169957				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	777566024927827				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	217729397618189				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						769.00	CZK	540.21	CZK	 	Rate After One Year	 	iPhone	CZ	1764000572414768				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	154587047962083				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year						249.00	DKK	169.32	DKK	 	 	 	iPhone	DK	784482508044867				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	448671456338429				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						24.99	GBP	17.65	GBP	 	Rate After One Year	 	iPhone	GB	196626161199771				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						229.00	DKK	155.72	DKK	 	Rate After One Year	 	iPhone	DK	616643971793026				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						129.00	CZK	90.62	CZK	 	Rate After One Year	 	iPhone	CZ	224774812059366				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	469633688768001				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	476607006554989				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	420714118869795				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	448671158607072				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	266707166960698				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	21.06	EUR	 	Rate After One Year	 	iPhone	DE	420714851158037				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	434698922196639				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	588641725096098				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	189735678866995				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	21.06	EUR	 	Rate After One Year	 	iPhone	DE	595633499407774				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.49	EUR	21.06	EUR	 	Rate After One Year	 	iPhone	DE	182644305939573				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	Rate After One Year	 	iPad	DK	672521331364262				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	637509118531994				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						29.99	EUR	21.07	EUR	 	Rate After One Year	 	iPhone	BE	630600245868672				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.49	USD	3.82	USD	 	 	 	iPhone	US	567660835096056				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	Rate After One Year	 	iPhone	FI	182643386133854				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						299.00	NOK	203.32	NOK	 	Rate After One Year	 	iPhone	NO	504645812719785				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						-13.07	NOK	8.89	NOK	 	Rate After One Year	 	iPhone	NO	504645812719785		Yes	2026-04-19	0
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						35.99	CAD	30.59	CAD	 	Rate After One Year	 	iPhone	CA	161708241280616				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						28.49	USD	24.22	USD	 	Rate After One Year	 	iPhone	EC	273715812303593				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year						30.99	EUR	20.99	EUR	 	 	 	iPhone	FI	644574890668081				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.49	USD	3.82	USD	 	Rate After One Year	 	iPhone	US	777564922598291				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						39.00	DKK	26.52	DKK	 	 	 	iPhone	DK	686481094342780				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	490604378652250				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month						3.99	GBP	2.82	GBP	 	 	 	iPhone	GB	693512122449981				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	427627751460387				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	623597781645428				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						28.49	USD	24.22	USD	 	Rate After One Year	 	iPhone	US	161708240810902				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month						4.99	EUR	3.38	EUR	 	 	 	iPhone	FI	791483472837647				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						669.00	MXN	490.22	MXN	 	Rate After One Year	 	iPhone	MX	1813000280552463				1
+2026-05-12	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						30.99	EUR	20.99	EUR	 	Rate After One Year	 	iPhone	FI	182644314858980				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year						229.00	DKK	155.72	DKK	 	Rate After One Year	 	iPhone	DK	574655741730961				1
+2026-05-11	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year			Free Trial	2 Weeks		0.00	EUR	0.00	EUR	 	 	 	iPhone	FI	497593260370922				1

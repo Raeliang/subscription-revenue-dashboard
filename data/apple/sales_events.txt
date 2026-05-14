@@ -1,0 +1,2 @@
+Date	Content Name	Event	Metric	Country Name	Platform Name	Time Frame	Adam ID
+05/11/2026	Sports Tracker Premium Yearly	10000	Proceeds	Finland	All Devices	All Time	6444699214

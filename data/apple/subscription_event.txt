@@ -1,0 +1,234 @@
+Event Date	Event	App Name	App Apple ID	Subscription Name	Subscription Apple ID	Subscription Group ID	Standard Subscription Duration	Subscription Offer Name	Promotional Offer ID	Subscription Offer Type	Subscription Offer Duration	Marketing Opt-In	Marketing Opt-In Duration	Preserved Pricing	Proceeds Reason	Consecutive Paid Periods	Original Start Date	Client	Device	State	Country	Previous Subscription Name	Previous Subscription Apple ID	Days Before Canceling	Cancellation Reason	Days Canceled	Quantity	Paid Service Days Recovered
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-05-11		iPhone	 	DE		 	 	 	 	1	 
+2026-05-11	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			3	2026-02-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			12	2025-05-11		iPhone	 	NL		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	2	2025-04-11		iPhone	 	NO		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			2	2026-04-11		iPhone	 	DE		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	NC	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	FI		 	 	 	 	29	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			12	2025-05-12		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			8	2025-09-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	13	2025-03-11		iPhone	 	FI		 	397	Canceled	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			2	2026-03-11		iPhone	 	FI		 	36	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	2	2025-05-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			8	2025-09-27		iPhone	KY	US		 	 	 	 	1	 
+2026-05-11	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	22	2024-08-11		iPhone	 	FI	Sports Tracker Premium Monthly	6444886816	 	 	 	1	1
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			10	2025-07-28		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	2	2025-04-11		iPhone	BO	IT		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	16	2025-02-11		iPhone	NY	US		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			3	2026-02-11		iPhone	MA	US		 	64	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	2	2025-05-11		iPhone	 	AT		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	CMX	MX		 	 	 	 	1	 
+2026-05-11	Subscribe	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 				 			1	2026-05-11		iPhone	AB	CA		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	23	2024-06-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			6	2025-09-16		iPhone	 	RO	Sports Tracker Premium Monthly	6444886816	 	 	 	1	1
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	25	2024-04-11		iPhone	OH	US		 	 	 	 	1	 
+2026-05-11	Billing Retry from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	Free Trial	1 Month		 			2	2026-01-25		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			13	2025-01-07		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			10	2025-07-11		iPhone	NC	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	NC	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	6	IS		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			1	2026-04-11		iPhone	MS	BR		 	10	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	30	2023-11-11		iPhone	SP	BR		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			8	2025-09-11		iPhone	 	FI		 	227	Canceled	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			3	2026-02-26		iPhone	 	FI		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	28	2024-01-12		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-04-27		iPhone	 	FR		 	2	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	 	FI		 	 	 	 	11	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	17	2024-12-11		iPhone	 	CZ		 	 	 	 	2	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	GR		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	15	2025-02-11		iPhone	 	FI		 	 	 	 	2	 
+2026-05-11	Paid Subscription from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			1	2026-04-27		iPhone	CA	US		 	 	 	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	Nakhon Phanom	TH		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	MA	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	15	2025-02-11		iPhone	PE	BR		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	MA	ES		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	VA	US		 	 	 	 	1	 
+2026-05-12	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	Free Trial	1 Month		 			0	2026-05-12		iPhone	 	CH		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	13	2025-04-11		iPhone	 	DK		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	QC	CA		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	GB		 	 	 	 	4	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-04-27		iPhone	 	FI		 	7	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	DE		 	 	 	 	7	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	25	2024-05-11		iPhone	 	SG		 	 	 	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	 	GB		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			2	2026-03-28		iPhone	 	FR		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	M	ES		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	FI	IT		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	16	2025-01-11		iPhone	BOY	CO		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	Free Trial	1 Month		 			0	2026-04-11		iPhone	 	FI		 	0	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	28	2024-01-11		iPhone	TX	US		 	 	 	 	1	 
+2026-05-11	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	21	2024-08-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	 	PL		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	 	SE		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-12		iPhone	CA	IT		 	 	 	 	1	 
+2026-05-12	Reactivate	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			1	2026-05-12		iPhone	Madrid	ES		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-12		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			5	2025-12-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	3	2024-04-11		iPhone	 	NO		 	 	 	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	 	FI		 	 	 	 	3	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			4	2026-01-28		iPhone	 	FI		 	 	 	 	2	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	NY	US		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-04-27		iPhone	MB	IT		 	6	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	22	2024-07-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-04-27		iPhone	WA	US		 	6	Canceled	 	1	 
+2026-05-11	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	21	2024-07-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	24	2024-06-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			4	2025-12-28		iPhone	 	DE		 	115	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	28	2024-01-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	35	2023-06-11		iPhone	 	FI		 	 	 	 	2	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	15	2025-02-12		iPhone	 	AT		 	 	 	 	1	 
+2026-05-12	Crossgrade from Billing Retry	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	3	2024-02-24		iPhone	 	FI	Sports Tracker Premium Yearly	6444699214	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	AB	CA		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	2	2025-05-12		iPhone	 	DE		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	27	2024-03-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-12	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-05-12		iPhone	Nakhon Ratchasima	TH		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	LE	ES		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			2	2026-03-28		iPhone	 	GB		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	NO		 	 	 	 	2	 
+2026-05-11	Renewals from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	Free Trial	1 Month		 			3	2025-12-21		iPhone	PAV	KZ		 	 	 	 	1	1
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	SK		 	 	 	 	2	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			9	2025-08-11		iPhone	OH	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	26	2024-03-11		iPhone	 	NO		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	2	2025-05-12		iPhone	 	CZ		 	 	 	 	1	 
+2026-05-11	Crossgrade	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	 	FI	Sports Tracker Premium Monthly	6444886816	 	 	 	1	 
+2026-05-12	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-05-12		iPhone	 	FI		 	 	 	 	2	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	14	2023-05-11		iPhone	 	NL		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	13	2025-04-11		iPhone	 	DE		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 		Rate After One Year	8	2025-10-11		iPhone	HI	US		 	 	 	 	1	 
+2026-05-11	Paid Subscription from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			1	2026-04-27		iPhone	 	GB		 	 	 	 	1	 
+2026-05-12	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-05-12		iPhone	 	CY		 	 	 	 	1	 
+2026-05-11	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			1	2026-03-28		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			1	2026-04-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	34	2023-06-25		iPhone	 	CZ		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	AT		 	 	 	 	2	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	CZ		 	 	 	 	6	 
+2026-05-11	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			6	2025-10-11		iPhone	 	AZ		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			3	2026-03-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-08		iPhone	 	PL	Sports Tracker Premium Yearly	6444699214	 	 	 	1	2
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	EE		 	 	 	 	4	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	 	DK		 	 	 	 	4	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	26	2023-04-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			4	2026-02-11		iPhone	CA	US		 	 	 	 	1	 
+2026-05-12	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			8	2025-09-10		iPhone	AL	IT	Sports Tracker Premium Monthly 14d	6747807750	 	 	 	1	1
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			12	2025-05-12		iPhone	 	GB		 	 	 	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	 	PL		 	 	 	 	1	 
+2026-05-12	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	NO	Sports Tracker Premium Yearly	6444699214	 	 	 	1	1
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			2	2026-03-29		iPhone	 	SG		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 		Rate After One Year	28	2024-01-11		iPhone	CA	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			4	2026-02-11		iPhone	 	HU		 	 	 	 	1	 
+2026-05-11	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			11	2025-05-11		iPhone	18	HR		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	34	2023-07-11		iPhone	 	FI		 	 	 	 	2	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			9	2025-09-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	Bangkok	TH		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	MIC	MX		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			9	2025-09-11		iPhone	NSW	AU		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-04-27		iPhone	MA	ES		 	3	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	10	2025-08-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	15	2025-03-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	19	2024-10-11		iPhone	 	SK		 	 	 	 	1	 
+2026-05-11	Paid Subscription from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			1	2026-04-27		iPhone	 	FR		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	HU		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			5	2025-12-28		iPhone	 	NO		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-05-11		iPhone	 	BG		 	 	 	 	1	 
+2026-05-11	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			3	2026-02-20		iPhone	 	FI	Sports Tracker Premium Monthly 14d	6747807750	 	 	 	1	5
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-05-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	32	2023-09-11		iPhone	 	DK		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	2	2025-05-12		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-10		iPhone	 	NL	Sports Tracker Premium Yearly	6444699214	 	 	 	1	1
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-04-27		iPhone	 	FI		 	3	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			8	2025-09-27		iPhone	MA	US		 	 	 	 	1	 
+2026-05-11	Grace Period from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-04-27		iPhone	 	FI		 	 	 	 	1	 
+2026-05-12	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			12	2025-05-11		iPhone	18	HR	Sports Tracker Premium Monthly	6444886816	 	 	 	1	1
+2026-05-11	Paid Subscription from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			1	2026-04-27		iPhone	 	DK		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			3	2026-02-25		iPhone	 	BF		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	BE		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			7	2025-10-11		iPhone	 	DK		 	 	 	 	2	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			5	2026-01-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-12		iPhone	 	FI		 	 	 	 	7	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			10	2025-07-11		iPhone	MA	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	SE		 	 	 	 	2	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	14	2025-04-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-04-27		iPhone	 	DE		 	9	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	13	2025-05-11		iPhone	BZV	CG		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			10	2025-07-12		iPhone	 	DE		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 		Rate After One Year	25	2024-04-11		iPhone	 	CZ		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	21	2024-08-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Paid Subscription from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			1	2026-04-27		iPhone	 	FI		 	 	 	 	2	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	21	2024-08-11		iPhone	 	RS		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	 	GB		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	14	2025-03-11		iPhone	TX	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	3	2024-05-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	34	2023-07-11		iPhone	 	DK		 	 	 	 	1	 
+2026-05-11	Paid Subscription from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			1	2026-04-27		iPhone	RM	IT		 	 	 	 	1	 
+2026-05-12	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	36	2023-04-12		iPhone	 	SE		 	 	 	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	 	GB		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	24	2024-05-11		iPad	 	DK		 	 	 	 	1	 
+2026-05-11	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	16	2025-01-01		iPhone	 	FI	Sports Tracker Premium Monthly	6444886816	 	 	 	1	9
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	23	2024-06-11		iPhone	 	CZ		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			12	2025-05-11		iPhone	 	DK		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	24	2024-05-11		iPhone	 	CZ		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			11	2025-07-12		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			5	2025-12-28		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Crossgrade from Grace Period	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	35	2023-06-10		iPhone	 	DE	Sports Tracker Premium Monthly	6444886816	 	 	 	1	1
+2026-05-11	Paid Subscription from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	Free Trial	1 Month		 			1	2026-04-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	23	2024-05-11		iPhone	 	PL		 	701	Canceled	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	 	DE		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	24	2024-05-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	27	2024-02-11		iPhone	 	FI		 	 	 	 	2	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-12		iPhone	QLD	AU		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	31	2023-11-11		iPhone	M	ES		 	 	 	 	1	 
+2026-05-11	Reactivate	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			1	2026-05-11		iPhone	 	GB		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			7	2025-11-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			2	2026-03-28		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	16	2025-02-11		iPhone	WA	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			7	2025-10-11		iPhone	CE	IT		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	DK		 	 	 	 	5	 
+2026-05-11	Paid Subscription from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			1	2026-04-27		iPhone	 	HU		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			1	2026-04-11		iPhone	 	FI		 	1	Canceled	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			1	2026-04-11		iPhone	 	FI		 	-590	Canceled	 	1	 
+2026-05-12	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-04-28		iPhone	 	FI		 	0	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			2	2026-04-11		iPhone	A	MG		 	 	 	 	1	 
+2026-05-11	Reactivate	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			1	2026-05-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			12	2025-05-11		iPhone	 	GB		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			1	2026-04-11		iPhone	 	CZ		 	0	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	MI	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			9	2025-08-28		iPhone	GA	US		 	 	 	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	 	FI		 	 	 	 	8	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			9	2025-09-12		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	NJ	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			12	2025-05-11		iPhone	 	FI		 	 	 	 	3	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			2	2026-04-11		iPhone	 	CH		 	1	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	22	2024-08-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	23	2024-06-11		iPhone	TN	US		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	36	2023-05-11		iPhone	 	CZ		 	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	24	2024-05-12		iPhone	 	NZ		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	CH		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	36	2023-05-11		iPhone	 	DK		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	B	ES		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			10	2025-07-11		iPhone	 	BG		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			2	2026-04-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-12	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-05-12		Desktop	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	29	2023-12-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	18	2024-11-11		iPhone	 	EE		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			2	2026-04-11		iPhone	 	FR		 	 	 	 	1	 
+2026-05-11	Upgrade	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	24	2024-05-19		iPhone	 	NO	Sports Tracker Premium Monthly	6444886816	 	 	 	1	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-12		iPhone	 	IL		 	 	 	 	2	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			0	2026-04-27		iPhone	 	CL		 	0	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			10	2025-07-11		iPhone	 	DK		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	IL		 	 	 	 	1	 
+2026-05-11	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			10	2025-07-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Paid Subscription from Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			1	2026-04-27		iPhone	 	FI		 	 	 	 	4	 
+2026-05-12	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-12		iPhone	NSW	AU		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	16	2025-01-11		iPhone	 	NO		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			10	2025-07-11		iPhone	 	CL		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 			7	2025-10-11		iPhone	 	FI		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 	Free Trial	2 Weeks		 			1	2026-03-28		iPhone	 	FI		 	16	Canceled	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	37	2023-04-11		iPhone	 	CL		 	 	 	 	1	 
+2026-05-11	Grace Period from Paid Subscription	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 	Free Trial	1 Month		 			2	2025-12-21		iPhone	PAV	KZ		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	2	2025-05-11		iPhone	 	DE		 	 	 	 	1	 
+2026-05-11	Cancel	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly 14d	6747807750	21069661	1 Month	 	 				 			2	2026-03-11		iPhone	 	FI		 	 	Billing issue	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	EC		 	 	 	 	1	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly	6444699214	21069661	1 Year	 	 				 		Rate After One Year	4	2023-04-11		iPhone	 	PL		 	 	 	 	3	 
+2026-05-11	Renew	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Monthly	6444886816	21069661	1 Month	 	 				 		Rate After One Year	34	2023-07-11		iPhone	 	SE		 	 	 	 	1	 
+2026-05-11	Start Introductory Offer	Sports Tracker: Run Bike Hike	426684873	Sports Tracker Premium Yearly 14d	6747804431	21069661	1 Year	 	 	Free Trial	2 Weeks		 			0	2026-05-11		iPhone	 	NL		 	 	 	 	1	 
